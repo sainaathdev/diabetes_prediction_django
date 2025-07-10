@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'diabetes_project.wsgi.application'
+WSGI_APPLICATION = 'diabetesdjango.wsgi:application'
 
 
 # Database
